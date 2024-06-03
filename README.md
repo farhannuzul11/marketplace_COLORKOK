@@ -1,5 +1,5 @@
 # marketplace_COLORKOK
-COLORKOK is a dynamic online marketplace project designed to connect buyers and sellers seamlessly. The platform offers a variety of features, ensuring a secure and user-friendly environment for all transactions. I made this with members of my college group. I am responsible for the backend creation
+COLORKOK is a dynamic online marketplace project designed to connect buyers and sellers seamlessly. The platform offers a variety of features, ensuring a secure and user-friendly environment for all transactions. I made this with members of my college group. I am responsible for the creating the backend. 
 
 # Backend Responsibilities
 As part of the backend team, my responsibilities include:
