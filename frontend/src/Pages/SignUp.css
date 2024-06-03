@@ -1,0 +1,74 @@
+.App {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f7f7; 
+}
+
+fieldset {
+  display: flex;
+  width: 100%;
+  max-width: 400px; 
+  padding: 2rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  flex-direction: column;
+  background: #ffffff; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+label {
+  margin-bottom: 0.5rem;
+  font-size: 16px;
+  color: #4a5568; 
+}
+
+sup {
+  color: #e53e3e; 
+  position: relative;
+  vertical-align: super; 
+  font-size: smaller; 
+}
+
+input, select {
+  width: 100%; 
+  border-radius: 6px;
+  border: 1px solid #cbd5e0; 
+  height: 40px; 
+  padding: 0 12px; 
+  font-size: 14px; 
+  color: #4a5568; 
+  background-color: #edf2f7; 
+}
+
+.Field {
+  position: relative;
+  margin-bottom: 1rem; 
+}
+
+.FieldError {
+  color: #e53e3e; 
+  font-size: 14px;
+  padding-top: 4px;
+}
+
+button.submit {
+  padding: 10px 20px;
+  width: auto; 
+  border-radius: 6px;
+  border: none; 
+  background-color: #2d3748; 
+  color: white;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s; 
+  align-self: center; 
+}
+
+button.submit:hover {
+  background-color: #4a5568;
+}
