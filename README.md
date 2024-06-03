@@ -15,3 +15,16 @@ Additionally, I am responsible for Dockerizing the application to streamline the
 2. Docker Compose: Setting up docker-compose.yml to manage multi-container applications, including MongoDB and the backend server.
 3. Environment Configuration: Configuring environment variables for different environments (development, testing, production).
 4. Automation: Automating the build and deployment process using Docker to ensure consistency across all environments.
+
+# Documentation
+1. Home Page
+![Screenshot 2024-06-03 212150](https://github.com/farhannuzul11/marketplace_COLORKOK/assets/112792115/f08d3d95-1b31-45e0-9e8b-28e9a70ae61f)
+
+2. Login Page
+![Screenshot 2024-06-03 212210](https://github.com/farhannuzul11/marketplace_COLORKOK/assets/112792115/2f15cbf2-275c-4b50-b890-839a0acde233)
+
+3. Shop Page
+![Screenshot 2024-06-03 212232](https://github.com/farhannuzul11/marketplace_COLORKOK/assets/112792115/a98f1902-5a24-4059-9bf2-c0e6dbf74d70)
+
+4. Cart Page
+![Screenshot 2024-06-03 212254](https://github.com/farhannuzul11/marketplace_COLORKOK/assets/112792115/2e6b3ffd-3a84-4e82-81a6-274795d65d53)
